@@ -6,9 +6,9 @@
 
 <div align=center>
 
-| <img src="https://github.com/aaahyesu.png" width="80"> | <img src="https://github.com/zelkovaria.png" width="80"> | <img src="https://github.com/JunYoung02.png" width="80"> | <img src="https://github.com/bluedog129.png" width="80"> |
-| :----------------------------------------------------: | :------------------------------------------------------: | :------------------------------------------------------: | :------------------------------------------------------: |
-|         [김혜수](https://github.com/aaahyesu)          |         [정혜인](https://github.com/zelkovaria)          |         [조준영](https://github.com/JunYoung02)          |         [최효종](https://github.com/bluedog129)          |
+| <img src="https://github.com/aaahyesu.png" width="80"> | <img src="https://github.com/CH4MD0M.png" width="80"> | <img src="https://github.com/zelkovaria.png" width="80"> | <img src="https://github.com/JunYoung02.png" width="80"> | <img src="https://github.com/bluedog129.png" width="80"> |
+| :----------------------------------------------------: | :---------------------------------------------------: | :------------------------------------------------------: | :------------------------------------------------------: | :------------------------------------------------------: |
+|         [김혜수](https://github.com/aaahyesu)          |         [노기훈](https://github.com/CH4MD0M)          |         [정혜인](https://github.com/zelkovaria)          |         [조준영](https://github.com/JunYoung02)          |         [최효종](https://github.com/bluedog129)          |
 
 </div>
 

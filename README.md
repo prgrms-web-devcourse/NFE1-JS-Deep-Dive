@@ -29,4 +29,4 @@
   `add: 챕터명 study` (ex) add: ch01-08 study <br/>
   이외의 경우 add대신 => `수정- update, 삭제- delete, 이외 문서 관련- docs` 를 사용
 - **branch convention** </br>
-  `add/GitHub Id/챕터명` (ex) add/zelkovaria/ch01-08
+  `GitHub Id/챕터명` (ex) zelkovaria/ch01-08
